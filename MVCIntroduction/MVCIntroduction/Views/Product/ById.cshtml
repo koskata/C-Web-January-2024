@@ -1,0 +1,20 @@
+﻿@model ProductViewModel
+
+@{
+    ViewData["Title"] = "By Id";
+}
+
+<span class="text-danger">@ViewBag.Error</span>
+@if (Model is not null)
+{
+    <div class="card col-3">
+        <div class="card-header">Product N.@Model.Id</div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+                <h5 class="card-title">Product Name: @Model.Name</h5>
+                <p class="card-text">Price: @Model.Price lv.</p>
+            </li>
+        </ul>
+    </div>
+}
+

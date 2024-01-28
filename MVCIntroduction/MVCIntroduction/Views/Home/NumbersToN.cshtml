@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = $"Nums 1 ... {ViewBag.Num}";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@{
+    for (int i = 0; i < ViewBag.Num; i++)
+    {
+        <li>@(i + 1)</li>
+    }
+}
