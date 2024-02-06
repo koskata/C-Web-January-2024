@@ -1,0 +1,14 @@
+D:\C# Web\ForumApp\ForumApp.Infrastructure\bin\Debug\net6.0\ForumApp.Infrastructure.deps.json
+D:\C# Web\ForumApp\ForumApp.Infrastructure\bin\Debug\net6.0\ForumApp.Infrastructure.runtimeconfig.json
+D:\C# Web\ForumApp\ForumApp.Infrastructure\bin\Debug\net6.0\ForumApp.Infrastructure.dll
+D:\C# Web\ForumApp\ForumApp.Infrastructure\bin\Debug\net6.0\ForumApp.Infrastructure.pdb
+D:\C# Web\ForumApp\ForumApp.Infrastructure\obj\Debug\net6.0\ForumApp.Infrastructure.csproj.AssemblyReference.cache
+D:\C# Web\ForumApp\ForumApp.Infrastructure\obj\Debug\net6.0\ForumApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Web\ForumApp\ForumApp.Infrastructure\obj\Debug\net6.0\ForumApp.Infrastructure.AssemblyInfoInputs.cache
+D:\C# Web\ForumApp\ForumApp.Infrastructure\obj\Debug\net6.0\ForumApp.Infrastructure.AssemblyInfo.cs
+D:\C# Web\ForumApp\ForumApp.Infrastructure\obj\Debug\net6.0\ForumApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C# Web\ForumApp\ForumApp.Infrastructure\obj\Debug\net6.0\ForumApp.Infrastructure.dll
+D:\C# Web\ForumApp\ForumApp.Infrastructure\obj\Debug\net6.0\refint\ForumApp.Infrastructure.dll
+D:\C# Web\ForumApp\ForumApp.Infrastructure\obj\Debug\net6.0\ForumApp.Infrastructure.pdb
+D:\C# Web\ForumApp\ForumApp.Infrastructure\obj\Debug\net6.0\ForumApp.Infrastructure.genruntimeconfig.cache
+D:\C# Web\ForumApp\ForumApp.Infrastructure\obj\Debug\net6.0\ref\ForumApp.Infrastructure.dll
