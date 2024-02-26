@@ -1,0 +1,11 @@
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\bin\Debug\net6.0\HouseRentingSystem.Core.deps.json
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\bin\Debug\net6.0\HouseRentingSystem.Core.dll
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\bin\Debug\net6.0\HouseRentingSystem.Core.pdb
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\obj\Debug\net6.0\HouseRentingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\obj\Debug\net6.0\HouseRentingSystem.Core.AssemblyInfoInputs.cache
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\obj\Debug\net6.0\HouseRentingSystem.Core.AssemblyInfo.cs
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\obj\Debug\net6.0\HouseRentingSystem.Core.csproj.CoreCompileInputs.cache
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\obj\Debug\net6.0\HouseRentingSystem.Core.dll
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\obj\Debug\net6.0\refint\HouseRentingSystem.Core.dll
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\obj\Debug\net6.0\HouseRentingSystem.Core.pdb
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem.Core\obj\Debug\net6.0\ref\HouseRentingSystem.Core.dll
