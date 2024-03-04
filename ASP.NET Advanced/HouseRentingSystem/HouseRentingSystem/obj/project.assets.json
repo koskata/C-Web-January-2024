@@ -952,6 +952,19 @@
           }
         }
       },
+      "HouseRentingSystem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HouseRentinSystem.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.Core.dll": {}
+        }
+      },
       "HouseRentinSystem.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2457,6 +2470,11 @@
         "version.txt"
       ]
     },
+    "HouseRentingSystem.Core/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.Core/HouseRentingSystem.Core.csproj",
+      "msbuildProject": "../HouseRentingSystem.Core/HouseRentingSystem.Core.csproj"
+    },
     "HouseRentinSystem.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../HouseRentinSystem.Infrastructure/HouseRentinSystem.Infrastructure.csproj",
@@ -2466,6 +2484,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "HouseRentinSystem.Infrastructure >= 1.0.0",
+      "HouseRentingSystem.Core >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.23",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.23",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.23",
@@ -2500,6 +2519,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj": {
+              "projectPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj"
+            },
             "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj": {
               "projectPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj"
             }
@@ -2510,6 +2532,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2556,7 +2583,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

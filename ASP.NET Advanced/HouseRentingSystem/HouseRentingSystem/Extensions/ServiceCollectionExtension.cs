@@ -1,4 +1,8 @@
-﻿using HouseRentingSystem.Data;
+﻿using HouseRentingSystem.Core.Contacts.Agent;
+using HouseRentingSystem.Core.Contacts.House;
+using HouseRentingSystem.Core.Services.Agent;
+using HouseRentingSystem.Core.Services.House;
+using HouseRentingSystem.Data;
 
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +13,9 @@ namespace HouseRentingSystem.Extensions
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
+            services.AddScoped<IHouseService, HouseService>();
+            services.AddScoped<IAgentService, AgentService>();
+
             return services;
         }
 

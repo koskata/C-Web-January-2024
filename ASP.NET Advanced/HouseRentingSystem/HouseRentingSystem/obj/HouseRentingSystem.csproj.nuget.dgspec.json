@@ -4,14 +4,14 @@
     "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj": {}
   },
   "projects": {
-    "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj": {
+    "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
-        "projectName": "HouseRentingSystem",
-        "projectPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
+        "projectUniqueName": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj",
+        "projectName": "HouseRentingSystem.Core",
+        "projectPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj",
         "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\obj\\",
+        "outputPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,78 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
+        "projectName": "HouseRentingSystem",
+        "projectPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\HouseRentingSystem.csproj",
+        "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj": {
+                "projectPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj"
+              },
+              "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj": {
+                "projectPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -84,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -118,6 +190,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -149,7 +226,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

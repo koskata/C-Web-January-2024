@@ -71,9 +71,11 @@ D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.
 D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\scopedcss\bundle\HouseRentingSystem.styles.css
 D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\scopedcss\projectbundle\HouseRentingSystem.bundle.scp.css
-D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.csproj.CopyComplete
 D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.dll
 D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\refint\HouseRentingSystem.dll
 D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.pdb
 D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRentingSystem.genruntimeconfig.cache
 D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\ref\HouseRentingSystem.dll
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Core.dll
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\bin\Debug\net6.0\HouseRentingSystem.Core.pdb
+D:\C# Web\ASP.NET Advanced\HouseRentingSystem\HouseRentingSystem\obj\Debug\net6.0\HouseRen.12CAE0FD.Up2Date

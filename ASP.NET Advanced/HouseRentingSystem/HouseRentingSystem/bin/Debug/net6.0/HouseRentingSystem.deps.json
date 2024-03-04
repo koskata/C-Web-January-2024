@@ -9,6 +9,7 @@
       "HouseRentingSystem/1.0.0": {
         "dependencies": {
           "HouseRentinSystem.Infrastructure": "1.0.0",
+          "HouseRentingSystem.Core": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.23",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.23",
           "Microsoft.AspNetCore.Identity.UI": "6.0.23",
@@ -544,6 +545,14 @@
           }
         }
       },
+      "HouseRentingSystem.Core/1.0.0": {
+        "dependencies": {
+          "HouseRentinSystem.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "HouseRentingSystem.Core.dll": {}
+        }
+      },
       "HouseRentinSystem.Infrastructure/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.23",
@@ -924,6 +933,11 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "HouseRentingSystem.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "HouseRentinSystem.Infrastructure/1.0.0": {
       "type": "project",
