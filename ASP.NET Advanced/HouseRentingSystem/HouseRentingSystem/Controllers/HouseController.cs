@@ -2,6 +2,7 @@
 using HouseRentingSystem.Core.Contacts.Agent;
 using HouseRentingSystem.Core.Contacts.House;
 using HouseRentingSystem.Core.Models.House;
+using HouseRentingSystem.Core.Services.House.Models;
 using HouseRentingSystem.Extensions;
 
 using Microsoft.AspNetCore.Authorization;
@@ -26,17 +27,43 @@ namespace HouseRentingSystem.Controllers
 
 
         [AllowAnonymous]
-        public async Task<IActionResult> All()
+        public async Task<IActionResult> All([FromQuery] AllHousesQueryModel query)
         {
+            var queryResult = houseService.All(
+                query.Category,
+                query.SearchTerm,
+                query.Sorting,
+                query.CurrentPage,
+                AllHousesQueryModel.HousesPerPage);
 
+            query.TotalHousesCount = queryResult.TotalHousesCount;
+            query.Houses = queryResult.Houses;
 
-            return View(new AllHousesQueryModel());
+            var houseCategories = await houseService.AllCategoriesNames();
+            query.Categories = houseCategories;
+
+            return View(query);
         }
 
         [Authorize]
         public async Task<IActionResult> Mine()
         {
-            return View(new AllHousesQueryModel());
+            IEnumerable<HouseServiceModel> myHouses = null;
+
+            var userId = User.Id();
+
+            if (await agentService.ExistByIdAsync(userId))
+            {
+                var currentAgentId = await agentService.GetAgentId(userId);
+
+                myHouses = await houseService.AllHousesByAgentId(currentAgentId);
+            }
+            else
+            {
+                myHouses = await houseService.AllHousesByUserId(userId);
+            }
+
+            return View(myHouses);
         }
 
         public async Task<IActionResult> Details(int id)
