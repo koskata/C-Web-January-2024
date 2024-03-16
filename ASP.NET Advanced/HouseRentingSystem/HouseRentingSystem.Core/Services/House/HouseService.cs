@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using HouseRentingSystem.Core.Contacts.House;
 using HouseRentingSystem.Core.Enums;
+using HouseRentingSystem.Core.Models.Agent;
 using HouseRentingSystem.Core.Models.House;
 using HouseRentingSystem.Core.Services.House.Models;
 using HouseRentingSystem.Data;
@@ -158,6 +159,85 @@ namespace HouseRentingSystem.Core.Services.House
                 }).ToList();
 
             return result;
+        }
+
+        public async Task<bool> Exists(int id)
+            => await context.Houses.AnyAsync(x => x.Id == id);
+
+        public async Task<HouseDetailsServiceModel> HouseDetailsById(int id)
+        {
+            return await context.Houses
+                .Where(x => x.Id == id)
+                .Select(x => new HouseDetailsServiceModel()
+                {
+                    Id = x.Id,
+                    Title = x.Title,
+                    Address = x.Address,
+                    ImageUrl = x.ImageUrl,
+                    PricePerMonth = x.PricePerMonth,
+                    Description = x.Description,
+                    IsRented = x.RenterId != null,
+                    Category = x.Category.Name,
+                    Agent = new AgentServiceModel()
+                    {
+                        PhoneNumber = x.Agent.PhoneNumber,
+                        Email = x.Agent.User.Email
+                    }
+                }).FirstAsync();
+        }
+
+        public async Task Edit(HouseFormModel model, int id)
+        {
+            var house = await context.Houses.FindAsync(id);
+
+            if (house != null)
+            {
+                house.Title = model.Title;
+                house.Address = model.Address;
+                house.ImageUrl = model.ImageUrl;
+                house.Description = model.Description;
+                house.PricePerMonth = model.PricePerMonth;
+                house.CategoryId = model.CategoryId;
+
+                await context.SaveChangesAsync();
+            }
+        }
+
+        public async Task<bool> HasAgentWithId(int houseId, string currentUserId)
+        {
+            return await context.Houses.AnyAsync(h => h.Id == houseId && h.Agent.UserId == currentUserId);
+        }
+
+        public async Task<HouseFormModel> GetHouseFormModelByIdAsync(int houseId)
+        {
+            var house = await context.Houses
+                .Where(h => h.Id == houseId)
+                .Select(h => new HouseFormModel()
+                {
+                    Address = h.Address,
+                    CategoryId = h.CategoryId,
+                    Description = h.Description,
+                    ImageUrl = h.ImageUrl,
+                    PricePerMonth = h.PricePerMonth,
+                    Title = h.Title
+                })
+                .FirstOrDefaultAsync();
+
+            if (house != null)
+            {
+                house.Categories = await AllCategoriesAsync();
+            }
+
+            return house;
+        }
+
+        public async Task Delete(int houseId)
+        {
+            var house = await context.Houses.FindAsync(houseId);
+
+            context.Remove(house);
+
+            await context.SaveChangesAsync();
         }
     }
 }

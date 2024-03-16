@@ -31,5 +31,17 @@ namespace HouseRentingSystem.Core.Contacts.House
         Task<IEnumerable<HouseServiceModel>> AllHousesByAgentId(int agentId);
 
         Task<IEnumerable<HouseServiceModel>> AllHousesByUserId(string userId);
+
+        Task<bool> Exists(int id);
+
+        Task<HouseDetailsServiceModel> HouseDetailsById(int id);
+
+        Task Edit(HouseFormModel model, int id);
+
+        Task<bool> HasAgentWithId(int houseId, string currentUserId);
+
+        Task<HouseFormModel> GetHouseFormModelByIdAsync(int houseId);
+
+        Task Delete(int houseId);
     }
 }
