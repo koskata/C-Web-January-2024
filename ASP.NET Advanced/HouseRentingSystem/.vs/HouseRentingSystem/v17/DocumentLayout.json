@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem\\views\\home\\error400.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\views\\home\\error400.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem\\views\\home\\error401.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\views\\home\\error401.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,35 +35,39 @@
       "RelativeMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|solutionrelative:houserentingsystem.core\\services\\house\\houseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem.core\\contacts\\house\\ihouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|solutionrelative:houserentingsystem.core\\contacts\\house\\ihouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem\\views\\house\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\views\\house\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem.core\\models\\house\\housedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|solutionrelative:houserentingsystem.core\\models\\house\\housedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem\\views\\house\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\views\\house\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem\\views\\house\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem.core\\contacts\\house\\ihouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|solutionrelative:houserentingsystem.core\\contacts\\house\\ihouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B59B97-9C79-45EF-AE6A-E36499B4F970}|HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentinsystem.infrastructure\\constants\\dataconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B59B97-9C79-45EF-AE6A-E36499B4F970}|HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj|solutionrelative:houserentinsystem.infrastructure\\constants\\dataconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem\\views\\house\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\views\\house\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem.core\\models\\house\\housedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|solutionrelative:houserentingsystem.core\\models\\house\\housedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem\\views\\house\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\views\\house\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem\\views\\house\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\views\\house\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem.core\\models\\house\\housedetailsservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem.core\\models\\house\\housedetailsservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|solutionrelative:houserentingsystem.core\\models\\house\\housedetailsservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem.core\\models\\agent\\agentservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem.core\\models\\agent\\agentservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|solutionrelative:houserentingsystem.core\\models\\agent\\agentservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,12 +75,8 @@
       "RelativeMoniker": "D:0:0:{F3B59B97-9C79-45EF-AE6A-E36499B4F970}|HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj|solutionrelative:houserentinsystem.infrastructure\\data\\houserentingsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem.core\\models\\house\\houseformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem.core\\models\\house\\houseformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|solutionrelative:houserentingsystem.core\\models\\house\\houseformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|d:\\c# web\\asp.net advanced\\houserentingsystem\\houserentingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A38D532-C2B1-42FF-BD63-8A5120E3DD90}|HouseRentingSystem\\HouseRentingSystem.csproj|solutionrelative:houserentingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3B59B97-9C79-45EF-AE6A-E36499B4F970}|HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentinsystem.infrastructure\\data\\seeddb\\seeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{F3B59B97-9C79-45EF-AE6A-E36499B4F970}|HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj|solutionrelative:houserentinsystem.infrastructure\\data\\seeddb\\houseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3B59B97-9C79-45EF-AE6A-E36499B4F970}|HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentinsystem.infrastructure\\constants\\dataconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3B59B97-9C79-45EF-AE6A-E36499B4F970}|HouseRentinSystem.Infrastructure\\HouseRentinSystem.Infrastructure.csproj|solutionrelative:houserentinsystem.infrastructure\\constants\\dataconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\houserentingsystem.core\\errormessages\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF7152F8-7743-4F02-8054-38DE015B6F48}|HouseRentingSystem.Core\\HouseRentingSystem.Core.csproj|solutionrelative:houserentingsystem.core\\errormessages\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -90,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,6 +119,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Error401.cshtml",
+              "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Views\\Home\\Error401.cshtml",
+              "RelativeDocumentMoniker": "HouseRentingSystem\\Views\\Home\\Error401.cshtml",
+              "ToolTip": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Views\\Home\\Error401.cshtml",
+              "RelativeToolTip": "HouseRentingSystem\\Views\\Home\\Error401.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T14:18:39.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error400.cshtml",
+              "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Views\\Home\\Error400.cshtml",
+              "RelativeDocumentMoniker": "HouseRentingSystem\\Views\\Home\\Error400.cshtml",
+              "ToolTip": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Views\\Home\\Error400.cshtml",
+              "RelativeToolTip": "HouseRentingSystem\\Views\\Home\\Error400.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T14:17:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HouseRentingSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:14:56.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HouseRentingSystem\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HouseRentingSystem\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T14:12:32.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "HouseRentingSystem\\appsettings.json",
+              "ToolTip": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\appsettings.json",
+              "RelativeToolTip": "HouseRentingSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T14:12:04.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Views\\House\\Delete.cshtml",
               "RelativeDocumentMoniker": "HouseRentingSystem\\Views\\House\\Delete.cshtml",
@@ -106,12 +191,11 @@
               "RelativeToolTip": "HouseRentingSystem\\Views\\House\\Delete.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAiwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T15:22:47.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T15:22:47.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "HouseDetailsViewModel.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\Models\\House\\HouseDetailsViewModel.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem.Core\\Models\\House\\HouseDetailsViewModel.cs",
@@ -119,12 +203,11 @@
               "RelativeToolTip": "HouseRentingSystem.Core\\Models\\House\\HouseDetailsViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T15:18:13.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T15:18:13.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Views\\House\\Edit.cshtml",
               "RelativeDocumentMoniker": "HouseRentingSystem\\Views\\House\\Edit.cshtml",
@@ -132,12 +215,11 @@
               "RelativeToolTip": "HouseRentingSystem\\Views\\House\\Edit.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T15:05:24.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T15:05:24.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "HouseFormModel.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\Models\\House\\HouseFormModel.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem.Core\\Models\\House\\HouseFormModel.cs",
@@ -145,12 +227,11 @@
               "RelativeToolTip": "HouseRentingSystem.Core\\Models\\House\\HouseFormModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:47:51.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T14:47:51.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Views\\House\\Details.cshtml",
               "RelativeDocumentMoniker": "HouseRentingSystem\\Views\\House\\Details.cshtml",
@@ -158,12 +239,11 @@
               "RelativeToolTip": "HouseRentingSystem\\Views\\House\\Details.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T14:43:28.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T14:43:28.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "AgentServiceModel.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\Models\\Agent\\AgentServiceModel.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem.Core\\Models\\Agent\\AgentServiceModel.cs",
@@ -171,12 +251,11 @@
               "RelativeToolTip": "HouseRentingSystem.Core\\Models\\Agent\\AgentServiceModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:32:35.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T14:32:35.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "HouseDetailsServiceModel.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\Models\\House\\HouseDetailsServiceModel.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem.Core\\Models\\House\\HouseDetailsServiceModel.cs",
@@ -184,25 +263,24 @@
               "RelativeToolTip": "HouseRentingSystem.Core\\Models\\House\\HouseDetailsServiceModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:31:14.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T14:31:14.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Program.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem\\Program.cs",
               "ToolTip": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Program.cs",
               "RelativeToolTip": "HouseRentingSystem\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABMAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T19:04:21.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HouseRentingSystem\\Views\\Home\\Index.cshtml",
@@ -215,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\Data\\SeedDb\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "HouseRentinSystem.Infrastructure\\Data\\SeedDb\\UserConfiguration.cs",
@@ -227,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "AgentConfiguration.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\Data\\SeedDb\\AgentConfiguration.cs",
               "RelativeDocumentMoniker": "HouseRentinSystem.Infrastructure\\Data\\SeedDb\\AgentConfiguration.cs",
@@ -239,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\Data\\SeedDb\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "HouseRentinSystem.Infrastructure\\Data\\SeedDb\\CategoryConfiguration.cs",
@@ -251,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "HouseConfiguration.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\Data\\SeedDb\\HouseConfiguration.cs",
               "RelativeDocumentMoniker": "HouseRentinSystem.Infrastructure\\Data\\SeedDb\\HouseConfiguration.cs",
@@ -263,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "SeedDb.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\Data\\SeedDb\\SeedDb.cs",
               "RelativeDocumentMoniker": "HouseRentinSystem.Infrastructure\\Data\\SeedDb\\SeedDb.cs",
@@ -275,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "HouseRentingSystemDbContext.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\Data\\HouseRentingSystemDbContext.cs",
               "RelativeDocumentMoniker": "HouseRentinSystem.Infrastructure\\Data\\HouseRentingSystemDbContext.cs",
@@ -283,51 +361,50 @@
               "RelativeToolTip": "HouseRentinSystem.Infrastructure\\Data\\HouseRentingSystemDbContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T14:03:05.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T14:03:05.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "HouseController.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Controllers\\HouseController.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem\\Controllers\\HouseController.cs",
               "ToolTip": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem\\Controllers\\HouseController.cs",
               "RelativeToolTip": "HouseRentingSystem\\Controllers\\HouseController.cs",
-              "ViewState": "AQIAANEAAAAAAAAAAAAmwMoAAAAMAAAA",
+              "ViewState": "AQIAANwAAAAAAAAAAAAuwNsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T13:57:13.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "HouseService.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\Services\\House\\HouseService.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem.Core\\Services\\House\\HouseService.cs",
               "ToolTip": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\Services\\House\\HouseService.cs",
               "RelativeToolTip": "HouseRentingSystem.Core\\Services\\House\\HouseService.cs",
-              "ViewState": "AQIAAMMAAAAAAAAAAAAiwM8AAABqAAAA",
+              "ViewState": "AQIAABMBAAAAAAAAAAAAACIBAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T12:43:10.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "IHouseService.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\Contacts\\House\\IHouseService.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem.Core\\Contacts\\House\\IHouseService.cs",
               "ToolTip": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\Contacts\\House\\IHouseService.cs",
               "RelativeToolTip": "HouseRentingSystem.Core\\Contacts\\House\\IHouseService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAADgvywAAAAgAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAIA9wDQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T12:38:25.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
               "Title": "DataConstants.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentinSystem.Infrastructure\\Constants\\DataConstants.cs",
               "RelativeDocumentMoniker": "HouseRentinSystem.Infrastructure\\Constants\\DataConstants.cs",
@@ -335,11 +412,12 @@
               "RelativeToolTip": "HouseRentinSystem.Infrastructure\\Constants\\DataConstants.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T13:24:27.773Z"
+              "WhenOpened": "2024-03-04T13:24:27.773Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "ErrorMessages.cs",
               "DocumentMoniker": "D:\\C# Web\\ASP.NET Advanced\\HouseRentingSystem\\HouseRentingSystem.Core\\ErrorMessages\\ErrorMessages.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem.Core\\ErrorMessages\\ErrorMessages.cs",

@@ -175,7 +175,7 @@ namespace HouseRentingSystem.Controllers
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
-            if (await houseService.Exists(id) == false)
+            if (!await houseService.Exists(id))
             {
                 return BadRequest();
             }
@@ -200,12 +200,12 @@ namespace HouseRentingSystem.Controllers
         [HttpPost]
         public async Task<IActionResult> Delete(HouseDetailsViewModel model)
         {
-            if (await houseService.Exists(model.Id))
+            if (!await houseService.Exists(model.Id))
             {
                 return BadRequest();
             }
 
-            if (await houseService.HasAgentWithId(model.Id, User.Id()))
+            if (!await houseService.HasAgentWithId(model.Id, User.Id()))
             {
                 return Unauthorized();
             }
@@ -218,12 +218,41 @@ namespace HouseRentingSystem.Controllers
         [HttpPost]
         public async Task<IActionResult> Rent(int id)
         {
-            return RedirectToAction(nameof(Mine));
+            if (await houseService.Exists(id) == false)
+            {
+                return BadRequest();
+            }
+
+            if (!await agentService.ExistByIdAsync(User.Id()))
+            {
+                return Unauthorized();
+            }
+
+            if (await houseService.IsRentedAsync(id))
+            {
+                return BadRequest();
+            }
+
+            await houseService.RentAsync(id, User.Id());
+
+            return RedirectToAction(nameof(All));
         }
 
         [HttpPost]
         public async Task<IActionResult> Leave(int id)
         {
+            if (!await houseService.Exists(id) || !await houseService.IsRentedAsync(id))
+            {
+                return BadRequest();
+            }
+
+            if (!await houseService.IsRentedByUserWithIdAsync(id, User.Id()))
+            {
+                return Unauthorized();
+            }
+
+            await houseService.Leave(id);
+
             return RedirectToAction(nameof(Mine));
         }
     }
