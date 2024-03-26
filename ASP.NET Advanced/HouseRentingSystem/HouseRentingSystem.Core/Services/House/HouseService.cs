@@ -116,6 +116,7 @@ namespace HouseRentingSystem.Core.Services.House
                 {
                     Id = h.Id,
                     Title = h.Title,
+                    Address = h.Address,
                     ImageUrl = h.ImageUrl
                 })
                 .Take(3)

@@ -1,7 +1,9 @@
 ﻿using HouseRentingSystem.Core.Contacts.Agent;
 using HouseRentingSystem.Core.Contacts.House;
+using HouseRentingSystem.Core.Contacts.Statistic;
 using HouseRentingSystem.Core.Services.Agent;
 using HouseRentingSystem.Core.Services.House;
+using HouseRentingSystem.Core.Services.Statistic;
 using HouseRentingSystem.Data;
 
 using Microsoft.AspNetCore.Identity;
@@ -15,6 +17,7 @@ namespace HouseRentingSystem.Extensions
         {
             services.AddScoped<IHouseService, HouseService>();
             services.AddScoped<IAgentService, AgentService>();
+            services.AddTransient<IStatisticsService, StatisticsService>();
 
             return services;
         }

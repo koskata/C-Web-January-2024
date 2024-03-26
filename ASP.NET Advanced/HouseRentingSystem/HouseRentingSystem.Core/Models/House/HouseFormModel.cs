@@ -7,10 +7,11 @@ using Microsoft.EntityFrameworkCore;
 
 using static HouseRentinSystem.Infrastructure.Constants.DataConstants;
 using static HouseRentingSystem.Core.ErrorMessages.ErrorMessages;
+using HouseRentingSystem.Core.Contacts.House;
 
 namespace HouseRentingSystem.Core.Models.House
 {
-    public class HouseFormModel
+    public class HouseFormModel : IHouseModel
     {
         [Required(ErrorMessage = Required)]
         [StringLength(HouseTitleMaxLength, MinimumLength = HouseTitleMinLength, ErrorMessage = HouseTitleLengthErrorMessage)]

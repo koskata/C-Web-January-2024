@@ -1,8 +1,10 @@
 ﻿using System.ComponentModel;
 
+using HouseRentingSystem.Core.Contacts.House;
+
 namespace HouseRentingSystem.Core.Services.House.Models
 {
-    public class HouseServiceModel
+    public class HouseServiceModel : IHouseModel
     {
         public int Id { get; set; }
 
